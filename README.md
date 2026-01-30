@@ -34,6 +34,10 @@ No external libraries, frameworks, or styling tools are used.
 
 ```text
 .
+└── images/
+    ├── full_screenshot.png
+    └── img1.png
+    └── img2.png
 ├── index.html
 └── README.md
 
@@ -44,11 +48,11 @@ No external libraries, frameworks, or styling tools are used.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/resume-html.git
+   git clone https://github.com/JAHANWEE/HTML-Resume-Page-Assignment
 
 2. Open `index.html` in any modern web browser.
 
-#### 📸 Screenshots / Demo
+### 📸 Screenshots / Demo
 
 ![Full page view](/images/full_screenshot.png)
 ![Resume screenshots](/images/img1.png)
