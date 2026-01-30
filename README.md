@@ -50,9 +50,9 @@ No external libraries, frameworks, or styling tools are used.
 
 #### 📸 Screenshots / Demo
 
-![Full page view](images\full_screenshot.png)
-![Resume screenshots](images\img1.png)
-![Resume screenshots](images\img2.png)
+![Full page view](/images/full_screenshot.png)
+![Resume screenshots](/images/img1.png)
+![Resume screenshots](/images/img2.png)
 
 ### 📋 Assignment Requirements Checklist
 
